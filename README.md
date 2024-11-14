@@ -1,4 +1,4 @@
-<div>
+<div style="margin: auto">
      <img width="250px" src="https://play-lh.googleusercontent.com/IkcyuPcrQlDsv62dwGqteL_0K_Rt2BUTXfV3_vR4VmAGo-WSCfT2FgHdCBUsMw3TPGU" alt="Logo">
 </div>
 
