@@ -1,5 +1,5 @@
 <div>
-     <img width="250px" src="[https://github.com/xiaowuc2/xiaowuc2/blob/master/source/qxr/mpdf.jpg](https://play-lh.googleusercontent.com/IkcyuPcrQlDsv62dwGqteL_0K_Rt2BUTXfV3_vR4VmAGo-WSCfT2FgHdCBUsMw3TPGU)" alt="Logo">
+     <img width="250px" src="https://play-lh.googleusercontent.com/IkcyuPcrQlDsv62dwGqteL_0K_Rt2BUTXfV3_vR4VmAGo-WSCfT2FgHdCBUsMw3TPGU" alt="Logo">
 </div>
 
 # Requirements for execution
